@@ -10,7 +10,7 @@ const AboutSection = () => (
             Confianza y experiencia en TI desde 2015
           </h2>
           <p className="text-muted-foreground leading-relaxed mb-6">
-            Fundada en 2015, Virtual Assistance Peru S.A.C. es una sociedad anónima cerrada,{" "}
+            Fundada en 2015, Virtual Assistance Perú es una empresa{" "}
             <strong className="text-foreground">hábil y activa</strong>, especializada en consultoría informática, gestión
             de instalaciones y soluciones ERP para empresas peruanas.
           </p>

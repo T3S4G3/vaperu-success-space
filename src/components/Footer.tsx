@@ -7,7 +7,7 @@ const Footer = () => (
         {/* Brand */}
         <div>
           <h3 className="text-xl font-extrabold mb-4">
-            Virtual Assistance Perú <span className="font-medium opacity-80">S.A.C.</span>
+            Virtual Assistance Perú
           </h3>
           <p className="text-sm opacity-70 leading-relaxed mb-4">
             Consultoría informática, gestión de instalaciones y soluciones ERP para empresas peruanas.
@@ -64,7 +64,7 @@ const Footer = () => (
     </div>
     <div className="border-t border-primary-foreground/10">
       <div className="section-container py-5 flex flex-col sm:flex-row justify-between items-center gap-3 text-xs opacity-60">
-        <span>© 2026 Virtual Assistance Peru S.A.C. Todos los derechos reservados.</span>
+        <span>© 2026 Virtual Assistance Perú. Todos los derechos reservados.</span>
         <span>Dirección: Calles Gaviotas 122 Int. 401, Surquillo — Lima, Perú</span>
       </div>
     </div>

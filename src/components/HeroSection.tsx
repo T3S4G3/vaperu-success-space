@@ -17,8 +17,8 @@ const HeroSection = () => (
           <span className="inline-block px-4 py-1.5 rounded-full bg-accent text-accent-foreground text-xs font-semibold tracking-wide uppercase">
             Desde 2015 en Lima, Perú
           </span>
-          <h1 className="text-4xl md:text-5xl lg:text-[3.4rem] font-extrabold leading-tight text-balance text-foreground">
-            Virtual Assistance Peru:{" "}
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-extrabold leading-tight text-balance text-foreground">
+            Virtual Assistance Perú:{" "}
             <span className="text-primary">Consultoría y ERP</span> para tu Éxito Empresarial
           </h1>
           <p className="text-lg text-muted-foreground max-w-xl leading-relaxed">
