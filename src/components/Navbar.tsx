@@ -26,7 +26,7 @@ const Navbar = () => {
     >
       <div className="section-container flex items-center justify-between h-16 md:h-20">
         <a href="#inicio" className="text-xl font-extrabold text-primary tracking-tight">
-          Virtual Assistance Perú<span className="text-foreground font-medium"> S.A.C.</span>
+          Virtual Assistance Perú
         </a>
 
         {/* Desktop */}
