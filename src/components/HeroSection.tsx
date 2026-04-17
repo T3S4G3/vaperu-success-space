@@ -25,11 +25,6 @@ const HeroSection = () => (
             Soluciones en gestión informática, instalaciones, software ERP. Cumple SUNAT. Soporte en Surquillo, Lima.
           </p>
           <div className="flex flex-wrap gap-4 pt-2">
-            <Button variant="hero" size="lg" asChild>
-              <a href="#contacto">
-                Solicita Demo Gratuita <ArrowRight className="ml-1" size={18} />
-              </a>
-            </Button>
             <Button variant="heroOutline" size="lg" asChild>
               <a href="#servicios">
                 <Play size={16} className="mr-1" /> Ver Servicios
