@@ -14,7 +14,7 @@ const BenefitsSection = () => (
       <div className="text-center max-w-2xl mx-auto mb-14">
         <span className="text-xs font-semibold uppercase tracking-widest text-primary">Beneficios</span>
         <h2 className="text-3xl md:text-4xl font-extrabold mt-3 text-foreground">
-          ¿Por qué elegir VAPERU?
+          ¿Por qué elegir Virtual Assistance Perú?
         </h2>
         <p className="text-muted-foreground mt-4">
           Resultados medibles para tu empresa desde el primer mes de implementación.

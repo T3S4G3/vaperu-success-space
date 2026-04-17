@@ -7,7 +7,7 @@ const Footer = () => (
         {/* Brand */}
         <div>
           <h3 className="text-xl font-extrabold mb-4">
-            VAPERU <span className="font-medium opacity-80">S.A.C.</span>
+            Virtual Assistance Perú <span className="font-medium opacity-80">S.A.C.</span>
           </h3>
           <p className="text-sm opacity-70 leading-relaxed mb-4">
             Consultoría informática, gestión de instalaciones y soluciones ERP para empresas peruanas.
@@ -49,7 +49,7 @@ const Footer = () => (
           <h4 className="font-bold mb-4">Ubicación</h4>
           <div className="rounded-xl overflow-hidden border border-border/20">
             <iframe
-              title="Ubicación VAPERU Surquillo, Lima"
+              title="Ubicación Virtual Assistance Perú Surquillo, Lima"
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3901.5!2d-77.0!3d-12.1!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sSurquillo!5e0!3m2!1ses!2spe!4v1600000000000!5m2!1ses!2spe"
               width="100%"
               height="180"

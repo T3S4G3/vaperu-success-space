@@ -50,7 +50,7 @@ const HeroSection = () => (
           <div className="relative">
             <img
               src={heroDashboard}
-              alt="Dashboard ERP de VAPERU mostrando módulos de gestión empresarial"
+              alt="Dashboard ERP de Virtual Assistance Perú mostrando módulos de gestión empresarial"
               width={1024}
               height={768}
               className="w-full h-auto drop-shadow-2xl animate-float"
