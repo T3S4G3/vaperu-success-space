@@ -6,7 +6,6 @@ const navItems = [
   { label: "Beneficios", href: "#beneficios" },
   { label: "Servicios", href: "#servicios" },
   { label: "Nosotros", href: "#nosotros" },
-  { label: "Contacto", href: "#contacto" },
 ];
 
 const Navbar = () => {
@@ -27,7 +26,7 @@ const Navbar = () => {
     >
       <div className="section-container flex items-center justify-between h-16 md:h-20">
         <a href="#inicio" className="text-xl font-extrabold text-primary tracking-tight">
-          VAPERU<span className="text-foreground font-medium"> S.A.C.</span>
+          Virtual Assistance Perú<span className="text-foreground font-medium"> S.A.C.</span>
         </a>
 
         {/* Desktop */}
@@ -45,7 +44,7 @@ const Navbar = () => {
             href="#contacto"
             className="gradient-primary text-primary-foreground px-5 py-2.5 rounded-lg text-sm font-semibold hover:shadow-lg transition-all"
           >
-            Demo Gratuita
+            Contacto
           </a>
         </div>
 

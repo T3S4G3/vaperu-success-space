@@ -8,13 +8,13 @@ const testimonials = [
     company: "Distribuidora Lima SAC",
   },
   {
-    text: "Redujimos nuestros costos operativos en un 18% con la consultoría de VAPERU. Soporte técnico impecable.",
+    text: "Redujimos nuestros costos operativos en un 18% con la consultoría de Virtual Assistance Perú. Soporte técnico impecable.",
     author: "María L.",
     role: "Directora de TI",
-    company: "Importaciones del Sur",
+    company: "Distribuidora Lima",
   },
   {
-    text: "El equipo de VAPERU nos acompañó en cada paso de la migración. Profesionalismo y dedicación constante.",
+    text: "El equipo de Virtual Assistance Perú nos acompañó en cada paso de la migración. Profesionalismo y dedicación constante.",
     author: "Jorge R.",
     role: "Administrador",
     company: "Constructora Pacífico",
